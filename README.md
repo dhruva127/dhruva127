@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My Name is DHRUV BHOIR <br>Cyber Security & Penetration Tester | Red Teamer | Offensive Security</p>
+<p align="left">My Name is DHRUV BHOIR <br>Cybersecurity Researcher | Red Teamer </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Cybersecurity practitioner Ranked Top 1% on TryHackMe with 300+ labs completed. VAPT | Red Teaming | Active Directory attack | Web Application Testing, and Network Exploitation | OSINT | Exploite Devlopment | Wireless Testing. Just Like That!  </p>
+<p align="left">Cybersecurity Researcher, educator and content creator. we showcasing CyberSecurity Tools tutorials, CTF video walkthroughs and other cyber security content.  </p>
 
 ###
 
